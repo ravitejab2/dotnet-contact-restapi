@@ -5,4 +5,4 @@ WORKDIR /myapp
 COPY . .
 
 EXPOSE 5555
-CMD ["dotnet", "DotNetCoreWebAPIForAzureAppService.dll"]
+CMD ["dotnet", "ContactsApi.dll.dll"]
